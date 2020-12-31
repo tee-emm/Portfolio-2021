@@ -15,7 +15,7 @@
 .main-aboutme p {
     font-family: 'Poppins', sans-serif;
     width: 45vw;
-    font-size: 1.2em;
+    font-size: 1.1em;
 }
 
 /* Regular Link */
@@ -42,7 +42,7 @@
     color: #EDCC91;
 }
 
-/* About Me Table */
+/* ABOUT ME TABLE */
 
 /* Table Positioning */
 table, th, td {
