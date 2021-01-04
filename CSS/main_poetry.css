@@ -100,6 +100,18 @@ Date retrieved: Wednesday, Dec. 6, 2020
     transform: rotateY(180deg);
     overflow: scroll;
 }
+
+.flip-card-back-sudoku{
+    background-color: #C6CAE6;
+    color: #35363A;
+}
+
+.flip-card-back-idiomatic{
+    background-color: #FFB4E5;
+    color: #35363A;
+}
+
+
 /* Adapted code ends */
 
 
