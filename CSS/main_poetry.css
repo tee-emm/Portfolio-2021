@@ -95,8 +95,6 @@ Date retrieved: Wednesday, Dec. 6, 2020
 
 /* Style the back side */
 .flip-card-back {
-    background-color: #985452;
-    color: white;
     transform: rotateY(180deg);
     overflow: scroll;
 }
@@ -104,11 +102,15 @@ Date retrieved: Wednesday, Dec. 6, 2020
 .flip-card-back-sudoku{
     background-color: #C6CAE6;
     color: #35363A;
+    overflow: scroll;
 }
 
 .flip-card-back-idiomatic{
     background-color: #FFB4E5;
     color: #35363A;
+    width: 28em;
+    height: 24em;
+    overflow: scroll;
 }
 
 
