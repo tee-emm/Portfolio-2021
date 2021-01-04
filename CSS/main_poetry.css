@@ -27,8 +27,8 @@ Date retrieved: Wednesday, Dec. 6, 2020
 .flip-card {
     float: left;
     background-color: transparent;
-    width: 22em;
-    height: 30em;
+    width: 28em;
+    height: 24em;
     perspective: 1000px;
     margin-bottom: 1em;
     /* Remove this if you don't want the 3D effect */
@@ -71,12 +71,19 @@ Date retrieved: Wednesday, Dec. 6, 2020
     bottom: 0;
     margin: 0;
 
-    /* Styling */
-    background-color: #985452;
-    color: white;
-
     /* Font */
     font-size: 1em;
+}
+
+.flip-card-front-sudoku p{
+    /* Styling */
+    background-color: #C6CAE6;
+    color: #35363A;
+}
+.flip-card-front-idiomatic p{
+    /* Styling */
+    background-color: #FFB4E5;
+    color: #35363A;
 }
 
 /* Style the front side (fallback if image is missing) */
@@ -99,9 +106,8 @@ Date retrieved: Wednesday, Dec. 6, 2020
 /* Personal styling */
 /* Img on front */
 .flip-card img {
-    border-radius: 0.5em;
-    width: 22em;
-    height: 30em
+    width: 28em;
+    height: 21em;
 }
 
 /* Reg. text for front + back */
